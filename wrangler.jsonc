@@ -49,7 +49,7 @@
         "namespace_id": "ba874b03efbd4dc29c8fea7c6a50ecf6"
       }
     ]
-  }
+  },
   "migrations": [
     {
       "new_sqlite_classes": ["Sandbox"],
